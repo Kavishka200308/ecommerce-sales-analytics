@@ -1,0 +1,504 @@
+Order_ID,Order_Date,Customer_ID,City,Product,Category,Quantity,Unit_Price,Discount,Payment_Method
+ORD0062,2026-01-01,C096,Negombo,Planner,Stationery,2,10.0,0.1,Credit Card
+ORD0461,2026-01-01,C127,Jaffna,Marker Set,Stationery,5,7.5,0.15,Cash on Delivery
+ORD0146,2026-01-01,C057,Kurunegala,Water Bottle,Home & Living,4,12.0,0.0,Cash on Delivery
+ORD0221,2026-01-01,C131,Kandy,Pen Set,Stationery,3,8.5,0.0,Digital Wallet
+ORD0033,2026-01-02,C113,Colombo,Coffee Mug,Home & Living,1,9.5,0.05,Digital Wallet
+ORD0231,2026-01-02,C097,Colombo,Planner,Stationery,4,10.0,0.1,Credit Card
+ORD0372,2026-01-02,C005,Kurunegala,Water Bottle,Home & Living,1,12.0,0.05,Digital Wallet
+ORD0277,2026-01-02,C146,Colombo,Marker Set,Stationery,2,7.5,0.1,Credit Card
+ORD0026,2026-01-02,C113,Kandy,Wireless Mouse,Electronics,1,18.5,0.2,Digital Wallet
+ORD0247,2026-01-02,C078,Negombo,Storage Box,Home & Living,2,15.0,0.0,Credit Card
+ORD0125,2026-01-03,C077,Colombo,Desk Lamp,Home & Living,3,24.0,0.2,Debit Card
+ORD0426,2026-01-03,C028,Jaffna,Backpack,Fashion,1,38.0,0.1,Debit Card
+ORD0296,2026-01-03,C136,Kurunegala,Marker Set,Stationery,1,7.5,0.0,Credit Card
+ORD0098,2026-01-03,C118,Galle,Hoodie,Fashion,2,42.0,0.05,Debit Card
+ORD0195,2026-01-04,C052,Galle,Backpack,Fashion,5,38.0,0.2,Digital Wallet
+ORD0121,2026-01-04,C075,Kurunegala,Planner,Stationery,2,10.0,0.1,Debit Card
+ORD0462,2026-01-04,C128,Kurunegala,Storage Box,Home & Living,1,15.0,0.1,Cash on Delivery
+ORD0359,2026-01-04,C090,,Mechanical Keyboard,Electronics,5,55.0,0.1,Cash on Delivery
+ORD0014,2026-01-05,C123,Kandy,Webcam,Electronics,3,45.0,0.15,Cash on Delivery
+ORD0310,2026-01-05,C031,Galle,Water Bottle,Home & Living,4,12.0,0.05,Debit Card
+ORD0206,2026-01-06,C033,Galle,Storage Box,Home & Living,2,15.0,0.05,Digital Wallet
+ORD0301,2026-01-06,C055,Galle,Storage Box,Home & Living,2,15.0,0.1,Debit Card
+ORD0483,2026-01-07,C008,Jaffna,Wireless Mouse,Electronics,2,18.5,0.05,Debit Card
+ORD0312,2026-01-07,C115,Jaffna,Wireless Mouse,Electronics,4,18.5,0.0,Credit Card
+ORD0216,2026-01-07,C125,Negombo,T-Shirt,Fashion,4,16.0,0.1,Cash on Delivery
+ORD0447,2026-01-08,C085,Jaffna,Pen Set,Stationery,3,8.5,0.0,Credit Card
+ORD0252,2026-01-08,C020,Galle,Coffee Mug,Home & Living,1,9.5,0.05,Digital Wallet
+ORD0322,2026-01-08,C034,Galle,Marker Set,Stationery,5,7.5,0.15,Debit Card
+ORD0473,2026-01-08,C050,Colombo,Water Bottle,Home & Living,1,12.0,0.0,Debit Card
+ORD0259,2026-01-08,C119,Kandy,Marker Set,Stationery,2,7.5,0.0,Credit Card
+ORD0382,2026-01-08,C129,,Cap,Fashion,2,11.0,0.0,Digital Wallet
+ORD0234,2026-01-09,C134,Kurunegala,Planner,Stationery,5,10.0,0.1,Credit Card
+ORD0076,2026-01-09,C076,Kandy,T-Shirt,Fashion,3,16.0,0.1,Debit Card
+ORD0226,2026-01-09,C084,Kurunegala,Storage Box,Home & Living,1,15.0,0.1,Digital Wallet
+ORD0425,2026-01-10,C075,Kurunegala,Wireless Mouse,Electronics,2,18.5,0.05,Debit Card
+ORD0330,2026-01-10,C114,Negombo,Wireless Mouse,Electronics,1,18.5,0.05,Digital Wallet
+ORD0321,2026-01-10,C097,,Mechanical Keyboard,Electronics,4,55.0,0.0,Debit Card
+ORD0130,2026-01-11,C072,Colombo,T-Shirt,Fashion,4,16.0,0.15,Credit Card
+ORD0379,2026-01-11,C051,Jaffna,USB-C Hub,Electronics,2,32.0,0.0,Debit Card
+ORD0214,2026-01-12,C017,Kurunegala,Marker Set,Stationery,2,7.5,0.2,Credit Card
+ORD0420,2026-01-12,C109,Negombo,Marker Set,Stationery,3,7.5,0.05,Digital Wallet
+ORD0015,2026-01-12,C072,Kandy,Desk Lamp,Home & Living,4,24.0,0.15,Credit Card
+ORD0210,2026-01-12,C077,Kandy,Storage Box,Home & Living,2,15.0,0.15,Digital Wallet
+ORD0245,2026-01-12,C125,Galle,Storage Box,Home & Living,2,15.0,0.2,Credit Card
+ORD0412,2026-01-12,C061,Kurunegala,Wireless Mouse,Electronics,1,18.5,0.0,Debit Card
+ORD0465,2026-01-13,C066,Jaffna,Water Bottle,Home & Living,4,12.0,0.1,Debit Card
+ORD0477,2026-01-13,C149,Negombo,T-Shirt,Fashion,2,16.0,0.0,Credit Card
+ORD0469,2026-01-14,C114,Kandy,Pen Set,Stationery,4,8.5,0.1,Digital Wallet
+ORD0251,2026-01-14,C118,Kandy,Notebook,Stationery,3,6.0,0.15,Credit Card
+ORD0237,2026-01-14,C106,Galle,Water Bottle,Home & Living,3,12.0,0.0,Debit Card
+ORD0344,2026-01-14,C012,Colombo,Water Bottle,Home & Living,2,12.0,0.15,Debit Card
+ORD0398,2026-01-14,C088,Kandy,Storage Box,Home & Living,4,15.0,0.0,Debit Card
+ORD0183,2026-01-14,C135,Negombo,T-Shirt,Fashion,2,16.0,0.1,Cash on Delivery
+ORD0051,2026-01-15,C070,Kurunegala,Water Bottle,Home & Living,1,12.0,0.0,Cash on Delivery
+ORD0225,2026-01-15,C046,Colombo,Marker Set,Stationery,2,7.5,0.1,Debit Card
+ORD0218,2026-01-15,C039,Negombo,Notebook,Stationery,3,6.0,0.05,Credit Card
+ORD0135,2026-01-15,C042,Negombo,Backpack,Fashion,3,38.0,0.1,Credit Card
+ORD0087,2026-01-16,C074,Kurunegala,Hoodie,Fashion,1,42.0,0.2,Digital Wallet
+ORD0392,2026-01-16,C125,Kandy,Planner,Stationery,3,10.0,0.1,Debit Card
+ORD0320,2026-01-17,C105,Colombo,Desk Lamp,Home & Living,2,24.0,0.15,Credit Card
+ORD0149,2026-01-17,C091,Galle,Water Bottle,Home & Living,2,12.0,0.05,Cash on Delivery
+ORD0348,2026-01-17,C020,Jaffna,Coffee Mug,Home & Living,4,9.5,0.15,Credit Card
+ORD0383,2026-01-19,C110,Colombo,Marker Set,Stationery,3,7.5,0.0,Digital Wallet
+ORD0085,2026-01-20,C147,Colombo,Hoodie,Fashion,5,42.0,0.0,Debit Card
+ORD0365,2026-01-21,C107,Jaffna,Marker Set,Stationery,3,7.5,0.0,Debit Card
+ORD0384,2026-01-21,C119,Kurunegala,Backpack,Fashion,1,38.0,0.05,Credit Card
+ORD0001,2026-01-21,C072,Kandy,Hoodie,Fashion,5,42.0,0.0,Cash on Delivery
+ORD0003,2026-01-21,C130,Colombo,Mechanical Keyboard,Electronics,4,55.0,0.2,Digital Wallet
+ORD0213,2026-01-22,C037,Jaffna,Pen Set,Stationery,4,8.5,0.1,Digital Wallet
+ORD0167,2026-01-22,C103,Galle,Desk Lamp,Home & Living,2,24.0,0.1,Debit Card
+ORD0107,2026-01-22,C061,Negombo,Wireless Mouse,Electronics,2,18.5,0.0,Debit Card
+ORD0219,2026-01-22,C084,Galle,Hoodie,Fashion,2,42.0,0.15,Cash on Delivery
+ORD0070,2026-01-23,C013,Colombo,Hoodie,Fashion,5,42.0,0.0,Cash on Delivery
+ORD0133,2026-01-23,C097,Colombo,Planner,Stationery,3,10.0,0.1,Credit Card
+ORD0488,2026-01-24,C116,Negombo,USB-C Hub,Electronics,1,32.0,0.2,Cash on Delivery
+ORD0346,2026-01-24,C138,Kurunegala,Coffee Mug,Home & Living,5,9.5,0.1,Cash on Delivery
+ORD0305,2026-01-25,C025,Negombo,Coffee Mug,Home & Living,2,9.5,0.1,Debit Card
+ORD0148,2026-01-25,C063,Kandy,Wireless Mouse,Electronics,2,18.5,0.0,Cash on Delivery
+ORD0181,2026-01-25,C118,Kandy,T-Shirt,Fashion,1,16.0,0.1,Credit Card
+ORD0222,2026-01-25,C064,Jaffna,Storage Box,Home & Living,2,15.0,0.0,Debit Card
+ORD0140,2026-01-26,C036,Galle,Storage Box,Home & Living,3,15.0,0.1,Cash on Delivery
+ORD0182,2026-01-26,C109,Kandy,Planner,Stationery,3,10.0,0.2,Digital Wallet
+ORD0281,2026-01-26,C137,Colombo,Backpack,Fashion,5,38.0,0.15,Cash on Delivery
+ORD0246,2026-01-26,C099,Jaffna,Coffee Mug,Home & Living,5,9.5,0.1,Digital Wallet
+ORD0040,2026-01-27,C008,Galle,Backpack,Fashion,5,38.0,0.05,Debit Card
+ORD0337,2026-01-29,C002,Negombo,Coffee Mug,Home & Living,5,9.5,0.1,Cash on Delivery
+ORD0102,2026-01-29,C133,Jaffna,Hoodie,Fashion,2,42.0,0.15,Debit Card
+ORD0389,2026-01-30,C076,Kandy,Wireless Mouse,Electronics,2,18.5,0.15,Digital Wallet
+ORD0470,2026-01-30,C022,Jaffna,Coffee Mug,Home & Living,5,9.5,0.15,Credit Card
+ORD0458,2026-01-30,C035,Colombo,Marker Set,Stationery,2,7.5,0.0,Debit Card
+ORD0436,2026-01-31,C065,Jaffna,Coffee Mug,Home & Living,4,9.5,0.1,Credit Card
+ORD0361,2026-01-31,C057,Jaffna,Water Bottle,Home & Living,4,12.0,0.0,Digital Wallet
+ORD0308,2026-02-01,C012,Jaffna,USB-C Hub,Electronics,4,32.0,0.0,Credit Card
+ORD0298,2026-02-01,C150,Colombo,Mechanical Keyboard,Electronics,5,55.0,0.0,Credit Card
+ORD0038,2026-02-02,C068,Kurunegala,Hoodie,Fashion,5,42.0,0.0,Credit Card
+ORD0275,2026-02-03,C019,Kurunegala,Hoodie,Fashion,5,42.0,0.05,Credit Card
+ORD0108,2026-02-03,C046,Colombo,Wireless Mouse,Electronics,1,18.5,0.05,Debit Card
+ORD0405,2026-02-04,C012,Galle,Cap,Fashion,5,11.0,0.15,Digital Wallet
+ORD0016,2026-02-04,C104,Colombo,Planner,Stationery,5,10.0,0.1,Cash on Delivery
+ORD0269,2026-02-04,C049,Jaffna,T-Shirt,Fashion,3,16.0,0.05,Debit Card
+ORD0294,2026-02-05,C044,Negombo,Storage Box,Home & Living,4,15.0,0.0,Credit Card
+ORD0289,2026-02-05,C109,Negombo,Water Bottle,Home & Living,2,12.0,0.2,Credit Card
+ORD0299,2026-02-05,C142,Colombo,Marker Set,Stationery,4,7.5,0.1,Cash on Delivery
+ORD0069,2026-02-05,C099,Kandy,Wireless Mouse,Electronics,4,18.5,0.0,Credit Card
+ORD0274,2026-02-05,C025,Galle,Planner,Stationery,5,10.0,0.15,Cash on Delivery
+ORD0048,2026-02-05,C057,Negombo,Notebook,Stationery,4,6.0,0.05,Digital Wallet
+ORD0279,2026-02-05,C042,Jaffna,T-Shirt,Fashion,1,16.0,0.1,Digital Wallet
+ORD0168,2026-02-06,C098,Galle,Pen Set,Stationery,2,8.5,0.2,Debit Card
+ORD0242,2026-02-06,C148,Jaffna,Desk Lamp,Home & Living,2,24.0,0.1,Digital Wallet
+ORD0255,2026-02-06,C130,Jaffna,T-Shirt,Fashion,4,16.0,0.0,Debit Card
+ORD0113,2026-02-07,C018,Galle,Cap,Fashion,3,11.0,0.05,Cash on Delivery
+ORD0141,2026-02-07,C104,Kurunegala,Webcam,Electronics,3,45.0,0.2,Digital Wallet
+ORD0394,2026-02-07,C047,Negombo,Cap,Fashion,3,11.0,0.1,Cash on Delivery
+ORD0186,2026-02-08,C108,Colombo,USB-C Hub,Electronics,2,32.0,0.1,Digital Wallet
+ORD0466,2026-02-08,C053,Colombo,Cap,Fashion,3,11.0,0.0,Credit Card
+ORD0334,2026-02-08,C119,Colombo,Notebook,Stationery,3,6.0,0.1,Digital Wallet
+ORD0031,2026-02-08,C128,Kandy,Hoodie,Fashion,4,42.0,0.2,Digital Wallet
+ORD0114,2026-02-08,C028,Colombo,Hoodie,Fashion,1,42.0,0.1,Credit Card
+ORD0418,2026-02-08,C041,Negombo,USB-C Hub,Electronics,3,32.0,0.05,Digital Wallet
+ORD0174,2026-02-08,C113,Galle,USB-C Hub,Electronics,3,32.0,0.05,Debit Card
+ORD0194,2026-02-08,C124,Kurunegala,Backpack,Fashion,5,38.0,0.15,Digital Wallet
+ORD0025,2026-02-08,C012,Kandy,Mechanical Keyboard,Electronics,1,55.0,0.0,Cash on Delivery
+ORD0120,2026-02-09,C031,Negombo,Backpack,Fashion,1,38.0,0.0,Digital Wallet
+ORD0202,2026-02-09,C009,Colombo,USB-C Hub,Electronics,1,32.0,0.15,Credit Card
+ORD0417,2026-02-10,C049,Colombo,Desk Lamp,Home & Living,1,24.0,0.15,Digital Wallet
+ORD0390,2026-02-10,C034,Galle,Webcam,Electronics,2,45.0,0.0,Cash on Delivery
+ORD0089,2026-02-10,C101,Jaffna,Coffee Mug,Home & Living,2,9.5,0.0,Digital Wallet
+ORD0424,2026-02-10,C143,Kandy,Notebook,Stationery,1,6.0,0.05,Cash on Delivery
+ORD0403,2026-02-10,C078,Jaffna,Storage Box,Home & Living,5,15.0,0.0,Cash on Delivery
+ORD0415,2026-02-12,C136,Jaffna,Mechanical Keyboard,Electronics,1,55.0,0.0,Digital Wallet
+ORD0065,2026-02-12,C074,Jaffna,T-Shirt,Fashion,4,16.0,0.05,Credit Card
+ORD0272,2026-02-12,C015,Kurunegala,Mechanical Keyboard,Electronics,5,55.0,0.0,Debit Card
+ORD0364,2026-02-13,C070,Colombo,Pen Set,Stationery,2,8.5,0.15,Credit Card
+ORD0338,2026-02-13,C088,Negombo,Planner,Stationery,2,10.0,0.0,Debit Card
+ORD0498,2026-02-14,C138,,Backpack,Fashion,1,38.0,0.1,Cash on Delivery
+ORD0185,2026-02-14,C108,Kandy,Backpack,Fashion,1,38.0,0.1,Cash on Delivery
+ORD0419,2026-02-15,C127,Negombo,Backpack,Fashion,3,38.0,0.05,Credit Card
+ORD0090,2026-02-15,C141,Galle,Backpack,Fashion,1,38.0,0.0,Credit Card
+ORD0145,2026-02-15,C001,Negombo,T-Shirt,Fashion,1,16.0,0.2,Credit Card
+ORD0172,2026-02-15,C122,Kandy,Mechanical Keyboard,Electronics,5,55.0,0.05,Digital Wallet
+ORD0288,2026-02-15,C024,Galle,Water Bottle,Home & Living,5,12.0,0.1,Digital Wallet
+ORD0053,2026-02-16,C094,Galle,Pen Set,Stationery,5,8.5,0.0,Cash on Delivery
+ORD0220,2026-02-16,C021,Negombo,T-Shirt,Fashion,4,16.0,0.0,Cash on Delivery
+ORD0280,2026-02-16,C106,Galle,Storage Box,Home & Living,1,15.0,0.05,Credit Card
+ORD0480,2026-02-16,C099,Kandy,Planner,Stationery,4,10.0,0.15,Digital Wallet
+ORD0059,2026-02-16,C069,Colombo,Desk Lamp,Home & Living,5,24.0,0.0,Debit Card
+ORD0163,2026-02-16,C129,Negombo,Notebook,Stationery,4,6.0,0.1,Digital Wallet
+ORD0406,2026-02-17,C069,Jaffna,Water Bottle,Home & Living,5,12.0,0.05,Credit Card
+ORD0041,2026-02-17,C061,Galle,Mechanical Keyboard,Electronics,1,55.0,0.1,Digital Wallet
+ORD0499,2026-02-18,C065,Jaffna,Wireless Mouse,Electronics,4,18.5,0.05,Debit Card
+ORD0302,2026-02-18,C012,Kandy,Cap,Fashion,4,11.0,0.15,Debit Card
+ORD0179,2026-02-18,C044,Negombo,Water Bottle,Home & Living,4,12.0,0.05,Credit Card
+ORD0100,2026-02-19,C038,Kandy,Water Bottle,Home & Living,3,12.0,0.0,Debit Card
+ORD0215,2026-02-19,C120,Kurunegala,Water Bottle,Home & Living,1,12.0,0.0,Digital Wallet
+ORD0443,2026-02-20,C109,Kandy,Cap,Fashion,2,11.0,0.15,Credit Card
+ORD0438,2026-02-20,C107,Kandy,Pen Set,Stationery,3,8.5,0.0,Debit Card
+ORD0159,2026-02-20,C067,Colombo,Webcam,Electronics,1,45.0,0.15,Digital Wallet
+ORD0313,2026-02-21,C124,Negombo,Marker Set,Stationery,1,7.5,0.0,Digital Wallet
+ORD0318,2026-02-21,C149,Negombo,T-Shirt,Fashion,4,16.0,0.1,Debit Card
+ORD0467,2026-02-22,C147,Galle,Mechanical Keyboard,Electronics,5,55.0,0.0,Credit Card
+ORD0263,2026-02-22,C142,Negombo,Wireless Mouse,Electronics,3,18.5,0.2,Credit Card
+ORD0442,2026-02-22,C086,Galle,Wireless Mouse,Electronics,5,18.5,0.05,Cash on Delivery
+ORD0239,2026-02-22,C119,Galle,Coffee Mug,Home & Living,5,9.5,0.0,Digital Wallet
+ORD0171,2026-02-22,C012,Kandy,T-Shirt,Fashion,3,16.0,0.1,Credit Card
+ORD0484,2026-02-23,C028,Kurunegala,Hoodie,Fashion,4,42.0,0.0,Credit Card
+ORD0161,2026-02-24,C142,Kandy,Marker Set,Stationery,4,7.5,0.1,Cash on Delivery
+ORD0410,2026-02-24,C132,Jaffna,USB-C Hub,Electronics,4,32.0,0.15,Digital Wallet
+ORD0428,2026-02-24,C065,Negombo,Desk Lamp,Home & Living,1,24.0,0.05,Cash on Delivery
+ORD0345,2026-02-25,C070,Galle,Wireless Mouse,Electronics,4,18.5,0.0,Credit Card
+ORD0414,2026-02-25,C084,Colombo,Pen Set,Stationery,3,8.5,0.05,Credit Card
+ORD0112,2026-02-25,C014,Galle,Coffee Mug,Home & Living,2,9.5,0.1,Cash on Delivery
+ORD0485,2026-02-26,C013,Colombo,Notebook,Stationery,4,6.0,0.0,Debit Card
+ORD0081,2026-02-27,C126,Jaffna,Storage Box,Home & Living,3,15.0,0.0,Digital Wallet
+ORD0497,2026-02-28,C017,Kandy,Cap,Fashion,4,11.0,0.15,Digital Wallet
+ORD0004,2026-02-28,C049,Kandy,Water Bottle,Home & Living,5,12.0,0.05,Digital Wallet
+ORD0494,2026-02-28,C045,Jaffna,Planner,Stationery,1,10.0,0.1,Digital Wallet
+ORD0370,2026-03-02,C061,Kandy,Backpack,Fashion,1,38.0,0.05,Digital Wallet
+ORD0189,2026-03-03,C029,Negombo,Planner,Stationery,3,10.0,0.2,Digital Wallet
+ORD0205,2026-03-03,C045,Negombo,Wireless Mouse,Electronics,1,18.5,0.0,Cash on Delivery
+ORD0314,2026-03-03,C116,Negombo,Marker Set,Stationery,2,7.5,0.0,Cash on Delivery
+ORD0093,2026-03-04,C026,Colombo,Mechanical Keyboard,Electronics,1,55.0,0.05,Debit Card
+ORD0374,2026-03-04,C099,Colombo,Coffee Mug,Home & Living,4,9.5,0.05,Digital Wallet
+ORD0013,2026-03-04,C136,Galle,USB-C Hub,Electronics,1,32.0,0.15,Cash on Delivery
+ORD0435,2026-03-05,C038,Negombo,Cap,Fashion,3,11.0,0.0,Digital Wallet
+ORD0457,2026-03-05,C042,Kurunegala,Storage Box,Home & Living,3,15.0,0.1,Credit Card
+ORD0377,2026-03-07,C113,Colombo,Wireless Mouse,Electronics,2,18.5,0.15,Digital Wallet
+ORD0137,2026-03-07,C086,Kandy,Cap,Fashion,1,11.0,0.0,Credit Card
+ORD0020,2026-03-07,C028,Kandy,Webcam,Electronics,3,45.0,0.1,Credit Card
+ORD0158,2026-03-08,C057,Galle,Storage Box,Home & Living,5,15.0,0.05,Cash on Delivery
+ORD0303,2026-03-08,C134,Jaffna,Desk Lamp,Home & Living,3,24.0,0.1,Debit Card
+ORD0437,2026-03-08,C088,Galle,Mechanical Keyboard,Electronics,5,55.0,0.0,Credit Card
+ORD0441,2026-03-09,C022,Negombo,Cap,Fashion,4,11.0,0.0,Credit Card
+ORD0375,2026-03-09,C127,Kurunegala,Planner,Stationery,5,10.0,0.0,Digital Wallet
+ORD0407,2026-03-09,C137,Galle,Hoodie,Fashion,1,42.0,0.1,Credit Card
+ORD0139,2026-03-09,C047,Jaffna,Marker Set,Stationery,5,7.5,0.05,Credit Card
+ORD0123,2026-03-09,C118,Galle,Webcam,Electronics,5,45.0,0.0,Digital Wallet
+ORD0143,2026-03-09,C100,Negombo,Wireless Mouse,Electronics,4,18.5,0.1,Digital Wallet
+ORD0128,2026-03-10,C049,Kurunegala,Cap,Fashion,3,11.0,0.0,Digital Wallet
+ORD0103,2026-03-10,C084,Kandy,Notebook,Stationery,2,6.0,0.15,Debit Card
+ORD0256,2026-03-10,C059,Colombo,Wireless Mouse,Electronics,3,18.5,0.05,Credit Card
+ORD0061,2026-03-10,C010,Jaffna,Notebook,Stationery,5,6.0,0.05,Debit Card
+ORD0290,2026-03-11,C123,Colombo,Planner,Stationery,1,10.0,0.0,Cash on Delivery
+ORD0450,2026-03-11,C012,Colombo,Webcam,Electronics,4,45.0,0.05,Cash on Delivery
+ORD0451,2026-03-11,C096,Kandy,Backpack,Fashion,4,38.0,0.05,Digital Wallet
+ORD0079,2026-03-12,C145,Colombo,Marker Set,Stationery,5,7.5,0.05,Credit Card
+ORD0380,2026-03-13,C085,Colombo,Marker Set,Stationery,4,7.5,0.15,Cash on Delivery
+ORD0235,2026-03-13,C008,Kandy,Cap,Fashion,1,11.0,0.1,Digital Wallet
+ORD0203,2026-03-13,C038,Galle,Cap,Fashion,2,11.0,0.05,Credit Card
+ORD0227,2026-03-13,C088,Galle,Webcam,Electronics,5,45.0,0.0,Digital Wallet
+ORD0200,2026-03-14,C089,Jaffna,Backpack,Fashion,5,38.0,0.0,Debit Card
+ORD0127,2026-03-14,C101,Colombo,Pen Set,Stationery,4,8.5,0.0,Credit Card
+ORD0454,2026-03-14,C048,Jaffna,Cap,Fashion,4,11.0,0.15,Credit Card
+ORD0264,2026-03-14,C063,Colombo,Water Bottle,Home & Living,4,12.0,0.0,Credit Card
+ORD0400,2026-03-14,C063,Galle,Marker Set,Stationery,5,7.5,0.2,Digital Wallet
+ORD0468,2026-03-15,C032,Kandy,Mechanical Keyboard,Electronics,1,55.0,0.1,Digital Wallet
+ORD0486,2026-03-15,C053,Kurunegala,Water Bottle,Home & Living,5,12.0,0.0,Credit Card
+ORD0196,2026-03-15,C110,Galle,Notebook,Stationery,5,6.0,0.15,Debit Card
+ORD0300,2026-03-16,C002,Galle,Desk Lamp,Home & Living,2,24.0,0.05,Digital Wallet
+ORD0230,2026-03-17,C145,Colombo,Backpack,Fashion,3,38.0,0.0,Debit Card
+ORD0268,2026-03-17,C065,Kandy,Pen Set,Stationery,1,8.5,0.0,Cash on Delivery
+ORD0286,2026-03-18,C078,Negombo,Hoodie,Fashion,3,42.0,0.0,Credit Card
+ORD0324,2026-03-18,C008,Colombo,Marker Set,Stationery,1,7.5,0.05,Cash on Delivery
+ORD0332,2026-03-19,C059,Jaffna,Backpack,Fashion,1,38.0,0.2,Debit Card
+ORD0160,2026-03-19,C088,Kurunegala,Hoodie,Fashion,2,42.0,0.15,Cash on Delivery
+ORD0244,2026-03-20,C066,Kandy,Webcam,Electronics,2,45.0,0.1,Digital Wallet
+ORD0084,2026-03-21,C149,Kurunegala,Webcam,Electronics,5,45.0,0.0,Credit Card
+ORD0180,2026-03-21,C062,Galle,Desk Lamp,Home & Living,1,24.0,0.0,Digital Wallet
+ORD0008,2026-03-22,C035,Jaffna,Planner,Stationery,4,10.0,0.05,Debit Card
+ORD0066,2026-03-22,C035,Kandy,Webcam,Electronics,2,45.0,0.0,Digital Wallet
+ORD0110,2026-03-22,C061,Kandy,Pen Set,Stationery,3,8.5,0.2,Digital Wallet
+ORD0422,2026-03-23,C084,Kandy,Backpack,Fashion,5,38.0,0.15,Debit Card
+ORD0037,2026-03-23,C110,Kandy,T-Shirt,Fashion,5,16.0,0.0,Debit Card
+ORD0228,2026-03-23,C064,Kurunegala,Wireless Mouse,Electronics,5,18.5,0.0,Cash on Delivery
+ORD0471,2026-03-23,C034,Kandy,Cap,Fashion,2,11.0,0.05,Cash on Delivery
+ORD0475,2026-03-23,C100,Galle,T-Shirt,Fashion,3,16.0,0.15,Credit Card
+ORD0367,2026-03-23,C021,,Coffee Mug,Home & Living,1,9.5,0.05,Cash on Delivery
+ORD0311,2026-03-24,C056,Colombo,Desk Lamp,Home & Living,2,24.0,0.05,Cash on Delivery
+ORD0131,2026-03-24,C005,Galle,Coffee Mug,Home & Living,3,9.5,0.0,Debit Card
+ORD0007,2026-03-25,C130,Jaffna,Water Bottle,Home & Living,1,12.0,0.0,Cash on Delivery
+ORD0489,2026-03-25,C065,Jaffna,Webcam,Electronics,2,45.0,0.05,Digital Wallet
+ORD0258,2026-03-25,C038,Kurunegala,Desk Lamp,Home & Living,1,24.0,0.1,Credit Card
+ORD0287,2026-03-26,C007,Kandy,Desk Lamp,Home & Living,2,24.0,0.0,Cash on Delivery
+ORD0165,2026-03-27,C099,Jaffna,Mechanical Keyboard,Electronics,1,55.0,0.05,Digital Wallet
+ORD0404,2026-03-27,C110,Colombo,Marker Set,Stationery,2,7.5,0.1,Digital Wallet
+ORD0260,2026-03-27,C005,Kandy,USB-C Hub,Electronics,5,32.0,0.05,Credit Card
+ORD0157,2026-03-28,C124,Jaffna,Water Bottle,Home & Living,3,12.0,0.1,Digital Wallet
+ORD0193,2026-03-29,C121,Jaffna,Storage Box,Home & Living,1,15.0,0.0,Digital Wallet
+ORD0132,2026-03-30,C042,Kandy,Water Bottle,Home & Living,4,12.0,0.0,Digital Wallet
+ORD0006,2026-03-30,C132,Jaffna,T-Shirt,Fashion,1,16.0,0.0,Debit Card
+ORD0262,2026-03-30,C072,Kurunegala,Hoodie,Fashion,1,42.0,0.0,Digital Wallet
+ORD0030,2026-03-31,C147,Galle,Planner,Stationery,5,10.0,0.15,Cash on Delivery
+ORD0124,2026-03-31,C001,Kurunegala,Webcam,Electronics,1,45.0,0.05,Digital Wallet
+ORD0448,2026-04-01,C064,Negombo,Wireless Mouse,Electronics,4,18.5,0.2,Debit Card
+ORD0376,2026-04-02,C116,Kurunegala,Storage Box,Home & Living,5,15.0,0.1,Cash on Delivery
+ORD0453,2026-04-02,C082,Galle,USB-C Hub,Electronics,2,32.0,0.1,Cash on Delivery
+ORD0082,2026-04-02,C131,Kurunegala,Notebook,Stationery,1,6.0,0.1,Credit Card
+ORD0049,2026-04-02,C143,Kandy,Webcam,Electronics,4,45.0,0.15,Debit Card
+ORD0409,2026-04-03,C052,Kurunegala,Pen Set,Stationery,1,8.5,0.0,Digital Wallet
+ORD0223,2026-04-03,C145,Negombo,Hoodie,Fashion,3,42.0,0.2,Digital Wallet
+ORD0224,2026-04-03,C131,Jaffna,Cap,Fashion,2,11.0,0.15,Credit Card
+ORD0478,2026-04-04,C025,Colombo,Marker Set,Stationery,3,7.5,0.2,Credit Card
+ORD0010,2026-04-05,C014,Kurunegala,USB-C Hub,Electronics,2,32.0,0.15,Cash on Delivery
+ORD0278,2026-04-05,C007,Jaffna,Pen Set,Stationery,1,8.5,0.05,Debit Card
+ORD0327,2026-04-06,C094,Kandy,Cap,Fashion,2,11.0,0.0,Debit Card
+ORD0496,2026-04-06,C056,Jaffna,Pen Set,Stationery,1,8.5,0.0,Debit Card
+ORD0240,2026-04-06,C037,Colombo,Water Bottle,Home & Living,2,12.0,0.1,Cash on Delivery
+ORD0018,2026-04-06,C063,Colombo,Cap,Fashion,2,11.0,0.0,Digital Wallet
+ORD0136,2026-04-07,C038,Negombo,Pen Set,Stationery,3,8.5,0.15,Credit Card
+ORD0241,2026-04-07,C093,Jaffna,Hoodie,Fashion,2,42.0,0.05,Credit Card
+ORD0371,2026-04-08,C017,Kurunegala,Storage Box,Home & Living,1,15.0,0.15,Debit Card
+ORD0445,2026-04-08,C111,Galle,Webcam,Electronics,5,45.0,0.05,Digital Wallet
+ORD0034,2026-04-09,C009,Galle,Coffee Mug,Home & Living,5,9.5,0.2,Digital Wallet
+ORD0032,2026-04-09,C042,Jaffna,USB-C Hub,Electronics,4,32.0,0.1,Digital Wallet
+ORD0047,2026-04-09,C026,Kandy,Backpack,Fashion,5,38.0,0.0,Credit Card
+ORD0360,2026-04-10,C057,Kurunegala,Backpack,Fashion,3,38.0,0.05,Credit Card
+ORD0482,2026-04-10,C054,Negombo,Coffee Mug,Home & Living,1,9.5,0.1,Cash on Delivery
+ORD0283,2026-04-10,C019,Jaffna,T-Shirt,Fashion,4,16.0,0.0,Cash on Delivery
+ORD0293,2026-04-12,C002,Colombo,Water Bottle,Home & Living,2,12.0,0.2,Cash on Delivery
+ORD0266,2026-04-12,C132,Galle,Pen Set,Stationery,5,8.5,0.15,Debit Card
+ORD0229,2026-04-12,C033,Colombo,Backpack,Fashion,3,38.0,0.1,Digital Wallet
+ORD0023,2026-04-13,C003,Kurunegala,Desk Lamp,Home & Living,4,24.0,0.05,Digital Wallet
+ORD0156,2026-04-13,C055,Galle,Cap,Fashion,4,11.0,0.0,Digital Wallet
+ORD0232,2026-04-13,C150,Kandy,Wireless Mouse,Electronics,1,18.5,0.15,Debit Card
+ORD0017,2026-04-13,C142,Galle,USB-C Hub,Electronics,3,32.0,0.15,Credit Card
+ORD0444,2026-04-13,C139,Jaffna,Mechanical Keyboard,Electronics,4,55.0,0.0,Cash on Delivery
+ORD0297,2026-04-14,C005,Jaffna,Hoodie,Fashion,3,42.0,0.0,Credit Card
+ORD0002,2026-04-14,C100,Galle,Cap,Fashion,3,11.0,0.15,Debit Card
+ORD0446,2026-04-14,C082,Kurunegala,T-Shirt,Fashion,1,16.0,0.1,Credit Card
+ORD0211,2026-04-14,C017,Kandy,Mechanical Keyboard,Electronics,3,55.0,0.2,Digital Wallet
+ORD0046,2026-04-14,C017,Colombo,Storage Box,Home & Living,3,15.0,0.0,Credit Card
+ORD0134,2026-04-14,C104,Galle,Wireless Mouse,Electronics,2,18.5,0.05,Cash on Delivery
+ORD0328,2026-04-14,C136,Colombo,Hoodie,Fashion,4,42.0,0.15,Credit Card
+ORD0067,2026-04-15,C115,Jaffna,Mechanical Keyboard,Electronics,2,55.0,0.0,Debit Card
+ORD0094,2026-04-15,C098,Galle,Cap,Fashion,1,11.0,0.15,Cash on Delivery
+ORD0362,2026-04-16,C108,Kurunegala,Webcam,Electronics,5,45.0,0.0,Debit Card
+ORD0170,2026-04-16,C117,Kurunegala,Wireless Mouse,Electronics,2,18.5,0.1,Credit Card
+ORD0009,2026-04-16,C054,Jaffna,Marker Set,Stationery,2,7.5,0.05,Debit Card
+ORD0416,2026-04-16,C062,Galle,Mechanical Keyboard,Electronics,5,55.0,0.05,Debit Card
+ORD0021,2026-04-18,C028,Jaffna,Desk Lamp,Home & Living,5,24.0,0.15,Digital Wallet
+ORD0052,2026-04-18,C060,,Notebook,Stationery,1,6.0,0.15,Cash on Delivery
+ORD0267,2026-04-19,C083,,Water Bottle,Home & Living,5,12.0,0.15,Credit Card
+ORD0413,2026-04-19,C093,Colombo,Hoodie,Fashion,3,42.0,0.0,Cash on Delivery
+ORD0118,2026-04-19,C059,Kurunegala,Pen Set,Stationery,2,8.5,0.0,Credit Card
+ORD0011,2026-04-21,C082,Negombo,Notebook,Stationery,5,6.0,0.05,Digital Wallet
+ORD0493,2026-04-21,C135,Galle,Planner,Stationery,5,10.0,0.1,Credit Card
+ORD0340,2026-04-21,C128,Kandy,Mechanical Keyboard,Electronics,4,55.0,0.1,Debit Card
+ORD0071,2026-04-22,C084,Colombo,Mechanical Keyboard,Electronics,1,55.0,0.05,Debit Card
+ORD0119,2026-04-22,C070,Jaffna,Wireless Mouse,Electronics,5,18.5,0.0,Debit Card
+ORD0162,2026-04-22,C147,Negombo,Storage Box,Home & Living,1,15.0,0.0,Cash on Delivery
+ORD0036,2026-04-22,C084,Kurunegala,Webcam,Electronics,4,45.0,0.15,Credit Card
+ORD0459,2026-04-23,C026,Kurunegala,Cap,Fashion,3,11.0,0.0,Cash on Delivery
+ORD0097,2026-04-23,C004,Kandy,Mechanical Keyboard,Electronics,1,55.0,0.2,Digital Wallet
+ORD0356,2026-04-23,C107,Kurunegala,Notebook,Stationery,2,6.0,0.0,Debit Card
+ORD0440,2026-04-23,C018,Negombo,Notebook,Stationery,3,6.0,0.15,Credit Card
+ORD0456,2026-04-24,C031,Kurunegala,T-Shirt,Fashion,5,16.0,0.2,Credit Card
+ORD0500,2026-04-24,C026,Negombo,Pen Set,Stationery,4,8.5,0.05,Digital Wallet
+ORD0045,2026-04-24,C024,Kurunegala,Storage Box,Home & Living,2,15.0,0.2,Cash on Delivery
+ORD0166,2026-04-24,C128,Galle,Mechanical Keyboard,Electronics,3,55.0,0.15,Credit Card
+ORD0155,2026-04-24,C113,Kurunegala,Mechanical Keyboard,Electronics,3,55.0,0.05,Debit Card
+ORD0368,2026-04-25,C147,Colombo,Backpack,Fashion,5,38.0,0.1,Credit Card
+ORD0104,2026-04-25,C043,Colombo,Mechanical Keyboard,Electronics,5,55.0,0.0,Cash on Delivery
+ORD0173,2026-04-25,C036,Kandy,Storage Box,Home & Living,1,15.0,0.0,Credit Card
+ORD0184,2026-04-26,C082,Galle,USB-C Hub,Electronics,2,32.0,0.05,Debit Card
+ORD0387,2026-04-26,C009,Kurunegala,Desk Lamp,Home & Living,3,24.0,0.0,Debit Card
+ORD0055,2026-04-27,C090,Kurunegala,Planner,Stationery,3,10.0,0.05,Cash on Delivery
+ORD0042,2026-04-27,C046,Kurunegala,Hoodie,Fashion,1,42.0,0.0,Cash on Delivery
+ORD0351,2026-04-27,C058,Jaffna,Storage Box,Home & Living,5,15.0,0.1,Digital Wallet
+ORD0086,2026-04-27,C001,Kurunegala,T-Shirt,Fashion,1,16.0,0.1,Debit Card
+ORD0432,2026-04-28,C057,Jaffna,USB-C Hub,Electronics,3,32.0,0.1,Digital Wallet
+ORD0353,2026-04-28,C057,Negombo,Hoodie,Fashion,3,42.0,0.15,Credit Card
+ORD0024,2026-04-28,C059,Colombo,T-Shirt,Fashion,5,16.0,0.1,Digital Wallet
+ORD0339,2026-04-28,C003,Galle,T-Shirt,Fashion,5,16.0,0.1,Cash on Delivery
+ORD0152,2026-04-28,C148,Kurunegala,Wireless Mouse,Electronics,1,18.5,0.2,Digital Wallet
+ORD0233,2026-04-29,C106,Jaffna,Backpack,Fashion,2,38.0,0.15,Credit Card
+ORD0092,2026-04-29,C005,Colombo,Pen Set,Stationery,2,8.5,0.1,Debit Card
+ORD0363,2026-04-30,C014,Kandy,Planner,Stationery,3,10.0,0.0,Digital Wallet
+ORD0197,2026-04-30,C003,Kurunegala,Mechanical Keyboard,Electronics,1,55.0,0.0,Credit Card
+ORD0401,2026-04-30,C142,Kurunegala,T-Shirt,Fashion,4,16.0,0.1,Credit Card
+ORD0474,2026-05-01,C139,Colombo,Webcam,Electronics,1,45.0,0.0,Cash on Delivery
+ORD0109,2026-05-01,C047,Kurunegala,Desk Lamp,Home & Living,3,24.0,0.0,Cash on Delivery
+ORD0198,2026-05-02,C020,Colombo,Mechanical Keyboard,Electronics,1,55.0,0.05,Credit Card
+ORD0056,2026-05-02,C058,Colombo,T-Shirt,Fashion,4,16.0,0.05,Cash on Delivery
+ORD0144,2026-05-02,C031,Colombo,Webcam,Electronics,2,45.0,0.15,Debit Card
+ORD0106,2026-05-02,C061,Galle,USB-C Hub,Electronics,3,32.0,0.05,Cash on Delivery
+ORD0075,2026-05-02,C142,Negombo,Wireless Mouse,Electronics,2,18.5,0.2,Cash on Delivery
+ORD0238,2026-05-02,C045,Galle,Coffee Mug,Home & Living,4,9.5,0.0,Cash on Delivery
+ORD0028,2026-05-03,C068,Colombo,Webcam,Electronics,2,45.0,0.2,Cash on Delivery
+ORD0201,2026-05-03,C067,Jaffna,Mechanical Keyboard,Electronics,3,55.0,0.15,Credit Card
+ORD0495,2026-05-04,C079,Jaffna,T-Shirt,Fashion,1,16.0,0.2,Debit Card
+ORD0393,2026-05-04,C148,Colombo,Hoodie,Fashion,4,42.0,0.1,Digital Wallet
+ORD0248,2026-05-05,C060,Kurunegala,Desk Lamp,Home & Living,1,24.0,0.0,Digital Wallet
+ORD0050,2026-05-05,C063,Kurunegala,Planner,Stationery,3,10.0,0.05,Debit Card
+ORD0292,2026-05-05,C044,Kandy,Webcam,Electronics,2,45.0,0.1,Cash on Delivery
+ORD0306,2026-05-05,C054,Jaffna,Webcam,Electronics,1,45.0,0.1,Cash on Delivery
+ORD0439,2026-05-05,C122,Negombo,T-Shirt,Fashion,5,16.0,0.0,Debit Card
+ORD0492,2026-05-06,C057,Jaffna,USB-C Hub,Electronics,2,32.0,0.0,Digital Wallet
+ORD0335,2026-05-06,C149,Kurunegala,USB-C Hub,Electronics,2,32.0,0.1,Digital Wallet
+ORD0257,2026-05-06,C043,Kandy,Backpack,Fashion,4,38.0,0.0,Credit Card
+ORD0329,2026-05-06,C036,Jaffna,Storage Box,Home & Living,2,15.0,0.0,Debit Card
+ORD0369,2026-05-07,C117,Kandy,Marker Set,Stationery,1,7.5,0.0,Credit Card
+ORD0111,2026-05-07,C047,Kurunegala,Webcam,Electronics,1,45.0,0.1,Debit Card
+ORD0044,2026-05-08,C067,Kandy,Webcam,Electronics,5,45.0,0.05,Credit Card
+ORD0385,2026-05-08,C059,Galle,Coffee Mug,Home & Living,4,9.5,0.15,Credit Card
+ORD0057,2026-05-09,C117,Negombo,Coffee Mug,Home & Living,1,9.5,0.1,Cash on Delivery
+ORD0022,2026-05-09,C092,Colombo,Water Bottle,Home & Living,3,12.0,0.0,Cash on Delivery
+ORD0304,2026-05-10,C091,Galle,USB-C Hub,Electronics,5,32.0,0.0,Debit Card
+ORD0381,2026-05-10,C012,Galle,Hoodie,Fashion,2,42.0,0.0,Credit Card
+ORD0005,2026-05-11,C064,Negombo,Marker Set,Stationery,3,7.5,0.05,Cash on Delivery
+ORD0236,2026-05-12,C084,Kurunegala,Coffee Mug,Home & Living,3,9.5,0.05,Debit Card
+ORD0349,2026-05-12,C055,Kurunegala,Storage Box,Home & Living,5,15.0,0.1,Digital Wallet
+ORD0105,2026-05-12,C008,Jaffna,Hoodie,Fashion,3,42.0,0.0,Digital Wallet
+ORD0341,2026-05-12,C003,Galle,Marker Set,Stationery,1,7.5,0.1,Digital Wallet
+ORD0208,2026-05-13,C007,Galle,Wireless Mouse,Electronics,5,18.5,0.1,Credit Card
+ORD0315,2026-05-13,C086,Kurunegala,Cap,Fashion,4,11.0,0.05,Cash on Delivery
+ORD0095,2026-05-13,C095,Kurunegala,Wireless Mouse,Electronics,4,18.5,0.15,Cash on Delivery
+ORD0325,2026-05-13,C017,Jaffna,T-Shirt,Fashion,5,16.0,0.15,Credit Card
+ORD0309,2026-05-14,C060,Negombo,Backpack,Fashion,4,38.0,0.05,Cash on Delivery
+ORD0083,2026-05-14,C117,Kandy,Hoodie,Fashion,1,42.0,0.0,Digital Wallet
+ORD0326,2026-05-15,C143,Galle,Pen Set,Stationery,4,8.5,0.0,Digital Wallet
+ORD0491,2026-05-15,C134,Negombo,Backpack,Fashion,1,38.0,0.0,Credit Card
+ORD0122,2026-05-16,C079,Kandy,Mechanical Keyboard,Electronics,3,55.0,0.15,Cash on Delivery
+ORD0147,2026-05-17,C053,Kandy,Hoodie,Fashion,5,42.0,0.05,Digital Wallet
+ORD0343,2026-05-17,C013,Jaffna,Cap,Fashion,2,11.0,0.05,Digital Wallet
+ORD0449,2026-05-19,C149,Jaffna,Backpack,Fashion,5,38.0,0.05,Credit Card
+ORD0164,2026-05-20,C119,Jaffna,Backpack,Fashion,2,38.0,0.05,Credit Card
+ORD0481,2026-05-21,C013,Jaffna,Storage Box,Home & Living,4,15.0,0.0,Cash on Delivery
+ORD0188,2026-05-21,C013,Kandy,Storage Box,Home & Living,3,15.0,0.15,Digital Wallet
+ORD0142,2026-05-21,C140,Kurunegala,Cap,Fashion,2,11.0,0.2,Debit Card
+ORD0487,2026-05-22,C100,Kandy,Mechanical Keyboard,Electronics,2,55.0,0.0,Cash on Delivery
+ORD0354,2026-05-23,C047,Kurunegala,Mechanical Keyboard,Electronics,4,55.0,0.05,Cash on Delivery
+ORD0366,2026-05-23,C148,Negombo,USB-C Hub,Electronics,2,32.0,0.1,Debit Card
+ORD0460,2026-05-23,C001,Negombo,T-Shirt,Fashion,4,16.0,0.15,Credit Card
+ORD0331,2026-05-24,C095,Jaffna,Planner,Stationery,2,10.0,0.1,Debit Card
+ORD0154,2026-05-24,C030,Galle,Backpack,Fashion,5,38.0,0.1,Debit Card
+ORD0427,2026-05-24,C131,Kurunegala,T-Shirt,Fashion,2,16.0,0.05,Digital Wallet
+ORD0355,2026-05-24,C090,Negombo,Coffee Mug,Home & Living,3,9.5,0.1,Credit Card
+ORD0029,2026-05-24,C139,Colombo,Coffee Mug,Home & Living,5,9.5,0.1,Credit Card
+ORD0073,2026-05-24,C111,Negombo,Hoodie,Fashion,4,42.0,0.1,Credit Card
+ORD0479,2026-05-25,C042,Negombo,Planner,Stationery,3,10.0,0.1,Debit Card
+ORD0115,2026-05-25,C025,Negombo,Backpack,Fashion,2,38.0,0.05,Digital Wallet
+ORD0261,2026-05-25,C114,Kandy,Cap,Fashion,2,11.0,0.05,Digital Wallet
+ORD0249,2026-05-25,C070,Galle,T-Shirt,Fashion,4,16.0,0.1,Credit Card
+ORD0099,2026-05-25,C057,Negombo,Notebook,Stationery,4,6.0,0.1,Credit Card
+ORD0199,2026-05-25,C062,Galle,Backpack,Fashion,3,38.0,0.15,Digital Wallet
+ORD0096,2026-05-25,C083,Negombo,USB-C Hub,Electronics,5,32.0,0.1,Debit Card
+ORD0395,2026-05-25,C142,Colombo,Wireless Mouse,Electronics,5,18.5,0.1,Cash on Delivery
+ORD0116,2026-05-26,C109,Jaffna,Webcam,Electronics,2,45.0,0.15,Cash on Delivery
+ORD0352,2026-05-26,C113,Jaffna,Hoodie,Fashion,5,42.0,0.0,Credit Card
+ORD0423,2026-05-27,C082,Jaffna,Pen Set,Stationery,1,8.5,0.05,Digital Wallet
+ORD0072,2026-05-27,C140,Jaffna,USB-C Hub,Electronics,3,32.0,0.05,Credit Card
+ORD0455,2026-05-27,C072,Kurunegala,Wireless Mouse,Electronics,1,18.5,0.0,Cash on Delivery
+ORD0397,2026-05-27,C035,Kurunegala,Coffee Mug,Home & Living,4,9.5,0.05,Cash on Delivery
+ORD0357,2026-05-27,C051,Kandy,Desk Lamp,Home & Living,1,24.0,0.2,Cash on Delivery
+ORD0350,2026-05-27,C060,Colombo,Water Bottle,Home & Living,2,12.0,0.1,Cash on Delivery
+ORD0027,2026-05-27,C129,Kurunegala,Storage Box,Home & Living,5,15.0,0.0,Debit Card
+ORD0175,2026-05-28,C036,Galle,Storage Box,Home & Living,5,15.0,0.05,Cash on Delivery
+ORD0316,2026-05-29,C079,Kandy,Water Bottle,Home & Living,3,12.0,0.05,Cash on Delivery
+ORD0307,2026-05-29,C136,Kandy,T-Shirt,Fashion,1,16.0,0.1,Digital Wallet
+ORD0347,2026-05-29,C103,Kandy,Desk Lamp,Home & Living,5,24.0,0.0,Debit Card
+ORD0342,2026-05-29,C010,Kurunegala,Pen Set,Stationery,2,8.5,0.0,Cash on Delivery
+ORD0391,2026-05-30,C128,Colombo,Water Bottle,Home & Living,3,12.0,0.1,Credit Card
+ORD0336,2026-05-30,C086,Galle,Storage Box,Home & Living,4,15.0,0.0,Credit Card
+ORD0396,2026-05-31,C134,Galle,Notebook,Stationery,2,6.0,0.1,Cash on Delivery
+ORD0074,2026-05-31,C053,Colombo,Hoodie,Fashion,1,42.0,0.1,Cash on Delivery
+ORD0273,2026-05-31,C021,Galle,Coffee Mug,Home & Living,3,9.5,0.05,Cash on Delivery
+ORD0282,2026-06-01,C072,Colombo,Coffee Mug,Home & Living,2,9.5,0.05,Debit Card
+ORD0421,2026-06-02,C008,Galle,Wireless Mouse,Electronics,2,18.5,0.2,Debit Card
+ORD0429,2026-06-02,C127,Colombo,Desk Lamp,Home & Living,5,24.0,0.15,Debit Card
+ORD0091,2026-06-02,C047,Kandy,Water Bottle,Home & Living,3,12.0,0.1,Debit Card
+ORD0192,2026-06-02,C037,Colombo,Water Bottle,Home & Living,4,12.0,0.1,Credit Card
+ORD0271,2026-06-03,C117,Colombo,Mechanical Keyboard,Electronics,2,55.0,0.05,Digital Wallet
+ORD0058,2026-06-03,C076,Galle,Planner,Stationery,5,10.0,0.1,Credit Card
+ORD0176,2026-06-03,C109,Kandy,Planner,Stationery,1,10.0,0.05,Credit Card
+ORD0151,2026-06-03,C150,Jaffna,Notebook,Stationery,1,6.0,0.15,Debit Card
+ORD0472,2026-06-03,C093,Kandy,T-Shirt,Fashion,4,16.0,0.05,Digital Wallet
+ORD0452,2026-06-04,C143,Galle,Storage Box,Home & Living,1,15.0,0.1,Digital Wallet
+ORD0254,2026-06-05,C056,Kurunegala,Wireless Mouse,Electronics,1,18.5,0.1,Digital Wallet
+ORD0431,2026-06-05,C032,Jaffna,Water Bottle,Home & Living,4,12.0,0.0,Cash on Delivery
+ORD0476,2026-06-06,C145,Colombo,T-Shirt,Fashion,4,16.0,0.1,Digital Wallet
+ORD0276,2026-06-06,C027,Jaffna,Marker Set,Stationery,5,7.5,0.0,Cash on Delivery
+ORD0012,2026-06-06,C041,Negombo,Desk Lamp,Home & Living,4,24.0,0.1,Credit Card
+ORD0190,2026-06-07,C010,Colombo,Webcam,Electronics,4,45.0,0.2,Cash on Delivery
+ORD0212,2026-06-07,C070,Kandy,Marker Set,Stationery,5,7.5,0.15,Credit Card
+ORD0295,2026-06-07,C106,Colombo,USB-C Hub,Electronics,1,32.0,0.0,Cash on Delivery
+ORD0054,2026-06-07,C106,Galle,Marker Set,Stationery,5,7.5,0.2,Credit Card
+ORD0138,2026-06-08,C141,Jaffna,Backpack,Fashion,1,38.0,0.0,Credit Card
+ORD0265,2026-06-08,C077,Colombo,Webcam,Electronics,5,45.0,0.15,Cash on Delivery
+ORD0209,2026-06-09,C138,Galle,Desk Lamp,Home & Living,3,24.0,0.15,Credit Card
+ORD0063,2026-06-09,C128,Galle,Marker Set,Stationery,2,7.5,0.0,Digital Wallet
+ORD0035,2026-06-10,C120,Jaffna,Planner,Stationery,4,10.0,0.15,Cash on Delivery
+ORD0402,2026-06-10,C064,Jaffna,Webcam,Electronics,1,45.0,0.0,Credit Card
+ORD0064,2026-06-10,C033,Negombo,Marker Set,Stationery,2,7.5,0.1,Cash on Delivery
+ORD0386,2026-06-11,C148,Kandy,USB-C Hub,Electronics,1,32.0,0.0,Debit Card
+ORD0129,2026-06-11,C137,Jaffna,Pen Set,Stationery,5,8.5,0.1,Cash on Delivery
+ORD0411,2026-06-11,C086,Galle,Pen Set,Stationery,4,8.5,0.05,Cash on Delivery
+ORD0434,2026-06-12,C146,Galle,Hoodie,Fashion,3,42.0,0.0,Cash on Delivery
+ORD0088,2026-06-13,C092,Kandy,Marker Set,Stationery,5,7.5,0.0,Digital Wallet
+ORD0068,2026-06-13,C120,,Mechanical Keyboard,Electronics,5,55.0,0.2,Credit Card
+ORD0433,2026-06-14,C007,Colombo,Webcam,Electronics,2,45.0,0.0,Credit Card
+ORD0078,2026-06-14,C029,Kurunegala,Storage Box,Home & Living,2,15.0,0.0,Cash on Delivery
+ORD0358,2026-06-14,C064,Jaffna,Water Bottle,Home & Living,3,12.0,0.05,Credit Card
+ORD0253,2026-06-14,C107,Negombo,Wireless Mouse,Electronics,4,18.5,0.05,Digital Wallet
+ORD0169,2026-06-15,C041,Kandy,Coffee Mug,Home & Living,5,9.5,0.15,Credit Card
+ORD0101,2026-06-15,C052,Colombo,Storage Box,Home & Living,3,15.0,0.0,Digital Wallet
+ORD0080,2026-06-16,C108,Galle,Marker Set,Stationery,4,7.5,0.0,Debit Card
+ORD0378,2026-06-16,C006,Jaffna,Storage Box,Home & Living,4,15.0,0.05,Cash on Delivery
+ORD0250,2026-06-17,C005,Jaffna,Webcam,Electronics,2,45.0,0.15,Digital Wallet
+ORD0077,2026-06-17,C141,Kandy,Notebook,Stationery,5,6.0,0.15,Credit Card
+ORD0464,2026-06-17,C066,Colombo,USB-C Hub,Electronics,3,32.0,0.15,Cash on Delivery
+ORD0117,2026-06-18,C042,Negombo,Water Bottle,Home & Living,1,12.0,0.1,Debit Card
+ORD0207,2026-06-18,C048,Negombo,Marker Set,Stationery,1,7.5,0.0,Cash on Delivery
+ORD0399,2026-06-19,C131,Galle,Backpack,Fashion,1,38.0,0.0,Credit Card
+ORD0187,2026-06-19,C016,Jaffna,Mechanical Keyboard,Electronics,1,55.0,0.1,Debit Card
+ORD0019,2026-06-20,C143,Negombo,Webcam,Electronics,4,45.0,0.2,Digital Wallet
+ORD0177,2026-06-20,C061,Kandy,Wireless Mouse,Electronics,1,18.5,0.05,Credit Card
+ORD0291,2026-06-21,C005,Galle,Notebook,Stationery,1,6.0,0.15,Digital Wallet
+ORD0178,2026-06-21,C108,Galle,Cap,Fashion,3,11.0,0.0,Debit Card
+ORD0126,2026-06-21,C138,Kandy,Coffee Mug,Home & Living,2,9.5,0.05,Credit Card
+ORD0317,2026-06-22,C082,Jaffna,Coffee Mug,Home & Living,5,9.5,0.0,Credit Card
+ORD0463,2026-06-22,C142,Kandy,Storage Box,Home & Living,3,15.0,0.05,Credit Card
+ORD0430,2026-06-22,C099,Colombo,Notebook,Stationery,3,6.0,0.05,Credit Card
+ORD0323,2026-06-22,C088,Galle,Notebook,Stationery,1,6.0,0.0,Credit Card
+ORD0191,2026-06-22,C003,Kurunegala,Hoodie,Fashion,5,42.0,0.1,Digital Wallet
+ORD0270,2026-06-23,C074,Colombo,Storage Box,Home & Living,3,15.0,0.0,Cash on Delivery
+ORD0217,2026-06-23,C026,Kandy,Mechanical Keyboard,Electronics,3,55.0,0.0,Credit Card
+ORD0284,2026-06-24,C069,Colombo,Desk Lamp,Home & Living,2,24.0,0.15,Cash on Delivery
+ORD0408,2026-06-24,C087,Jaffna,Coffee Mug,Home & Living,1,9.5,0.0,Debit Card
+ORD0388,2026-06-24,C139,Jaffna,Storage Box,Home & Living,4,15.0,0.0,Digital Wallet
+ORD0204,2026-06-25,C060,Negombo,Pen Set,Stationery,2,8.5,0.0,Digital Wallet
+ORD0060,2026-06-25,C144,Negombo,Water Bottle,Home & Living,4,12.0,0.0,Cash on Delivery
+ORD0039,2026-06-25,C033,Jaffna,Marker Set,Stationery,3,7.5,0.1,Cash on Delivery
+ORD0285,2026-06-25,C150,Negombo,Pen Set,Stationery,1,8.5,0.0,Cash on Delivery
+ORD0243,2026-06-26,C050,Galle,Pen Set,Stationery,4,8.5,0.05,Digital Wallet
+ORD0373,2026-06-28,C112,Negombo,Mechanical Keyboard,Electronics,2,55.0,0.05,Cash on Delivery
+ORD0153,2026-06-28,C141,Galle,T-Shirt,Fashion,1,16.0,0.0,Digital Wallet
+ORD0333,2026-06-28,C032,Kurunegala,Mechanical Keyboard,Electronics,4,55.0,0.0,Credit Card
+ORD0150,2026-06-29,C025,Kurunegala,Planner,Stationery,3,10.0,0.0,Credit Card
+ORD0319,2026-06-29,C082,Negombo,Coffee Mug,Home & Living,2,9.5,0.0,Debit Card
+ORD0043,2026-06-30,C046,Galle,Notebook,Stationery,5,6.0,0.2,Digital Wallet
+ORD0490,2026-06-30,C027,Kandy,T-Shirt,Fashion,4,16.0,0.2,Cash on Delivery
+ORD0493,2026-04-21,C135,Galle,Planner,Stationery,5,10.0,0.1,Credit Card
+ORD0198,2026-05-02,C020,Colombo,Mechanical Keyboard,Electronics,1,55.0,0.05,Credit Card
+ORD0469,2026-01-14,C114,Kandy,Pen Set,Stationery,4,8.5,0.1,Digital Wallet
